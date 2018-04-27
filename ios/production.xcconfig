@@ -1,0 +1,13 @@
+//
+//  development.xcconfig
+//  Runner
+//
+//  Created by Salvatore on 26/04/18.
+//  Copyright © 2018 The Chromium Authors. All rights reserved.
+//
+
+#include "Generated.xcconfig"
+
+server_url = www.iatka.it/api
+server_port = 80
+protocol = https

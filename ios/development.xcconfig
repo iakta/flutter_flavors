@@ -1,0 +1,15 @@
+//
+//  development.xcconfig
+//  Runner
+//
+//  Created by Salvatore on 26/04/18.
+//  Copyright © 2018 The Chromium Authors. All rights reserved.
+//
+
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-dev.dart
+
+server_url = www.iatka.it/api/dev
+server_port = 8080
+protocol = http
