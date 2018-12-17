@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>server_url</key>
+	<string>$(server_url)</string>
+	<key>server_port</key>
+	<string>$(server_port)</string>
+	<key>protocol</key>
+	<string>$(protocol)</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
