@@ -13,3 +13,4 @@ FLUTTER_TARGET=lib/main-dev.dart
 server_url = www.iatka.it/api/dev
 server_port = 8080
 protocol = http
+bundle_suffix = .dev
